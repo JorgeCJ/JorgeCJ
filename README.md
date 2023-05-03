@@ -25,4 +25,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=JorgeCJ&theme=react)](https://github.com/JorgeCJ/JorgeCJ)
+<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=JorgeCJ&theme=react)](https://github.com/JorgeCJ/JorgeCJ)-->
