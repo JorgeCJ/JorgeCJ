@@ -1,4 +1,4 @@
-<h1> Hi! My name is Jorge. </h1>
+<h1> Hi! My name is Jorge.</h1>
 
 <div>
   <a href="https://github.com/JorgeCJ">
