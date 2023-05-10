@@ -25,5 +25,3 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=JorgeCJ&theme=react)](https://github.com/JorgeCJ/JorgeCJ)-->
