@@ -41,6 +41,10 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
+  
+  ### How would I describe myself
+  `I'm just a guy who loves to learn programming, very dedicated and determined. I also like barbecue😂.`
+  
 <div align="center">  
   
    ### Feel free to visit this profile whenever you want 😊.
