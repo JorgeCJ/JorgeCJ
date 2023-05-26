@@ -2,11 +2,11 @@
 <p>My name is Jorge, I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:</p>
 <p>BitMoney is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.</p>
 <a href="https://github.com/JorgeCJ/BitMoney-COD3R" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=night" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=dark" height="150" />
 </a>
 <p>This is a time capsule, the purpose of which is to post your best moments, so that they are kept with care in the application❤️.</p>
 <a href="https://github.com/JorgeCJ/Time-capsule-NLW" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=night" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
 </a>
 <div>
   <a href="https://github.com/JorgeCJ">
@@ -14,9 +14,7 @@
   <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-    <!-- https://github-readme-stats.vercel.app/api?username=JorgeCJ&show_icons=true&theme=react&include_all_commits=true&count_private=true-->
-    <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats -->
-    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&layout=compact&langs_count=7&theme=react-->
+    
 </div>
  <br>
 <div  align="center"> 
