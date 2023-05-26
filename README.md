@@ -38,11 +38,11 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
-<div width="100%">  
+<div>  
   
    ### Feel free to visit this profile whenever you want 😊.
   
    ### Have a good day!
   
-  <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" width:"3000" height="250"   />  
+  <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" width:"500" height="250"   />  
 </div/
