@@ -38,4 +38,4 @@
 </div>
   
 ### Feel free to visit this profile whenever you want 😊 .
-<img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dedc2f28-43df-4f6c-88ec-7f2871aebcf6" height="150" />  
+<img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dedc2f28-43df-4f6c-88ec-7f2871aebcf6" height="200" />  
