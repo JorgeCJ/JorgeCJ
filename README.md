@@ -39,9 +39,9 @@
   
 </div>
 <div>  
-  ### Feel free to visit 
-  ### this profile 
-  ### whenever you want 😊 .
-  ### Have a good day!
+  <h3>Feel free to visit</h3>
+  <h3>this profile </h3>
+  <h3>whenever you want 😊.</h3>
+  <h3>Have a good day!</h3>
   <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250"   />  
 </div/
