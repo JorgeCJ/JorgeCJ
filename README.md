@@ -22,7 +22,7 @@
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">   
 </div>
  <br>
-<div  align="center"> 
+<div align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -38,6 +38,7 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
-  
-### Feel free to visit this profile whenever you want 😊 .
-<img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250" />  
+<div>  
+  ### Feel free to visit this profile whenever you want 😊 .
+  <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250"   />  
+</div/
