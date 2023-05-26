@@ -1,4 +1,7 @@
-<h1> Hi! My name is Jorge.</h1>
+<h1>Hi😁! My name is Jorge.</h1>
+<p>My name is Jorge, I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:</p>
+<p>Bitcent is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.</p>
+https://github.com/JorgeCJ/BitMoney-COD3R
 
 <div>
   <a href="https://github.com/JorgeCJ">
