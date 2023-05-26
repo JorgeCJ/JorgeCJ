@@ -10,7 +10,7 @@
 </a>
 
 ## TIME CAPSULE
-<p>This is a time capsule, the purpose of which is to post your best moments, so that they are kept with care in the application❤️.</p>
+`This is a time capsule, the purpose of which is to post your best moments, so that they are kept with care in the application❤️.`
 <a href="https://github.com/JorgeCJ/Time-capsule-NLW" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
 </a>
