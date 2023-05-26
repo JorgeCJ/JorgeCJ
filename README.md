@@ -39,9 +39,10 @@
   
 </div>
 <div width="100%">  
-  <span>Feel free to visit</span>
-  <span>this profile </span>
-  <span>whenever you want 😊.</span>
-  <span>Have a good day!</span>
+  
+   ### Feel free to visit this profile whenever you want 😊.
+  
+   ### Have a good day!
+  
   <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250"   />  
 </div/
