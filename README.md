@@ -1,5 +1,5 @@
 <h1>Hi😁! Welcome to my profile.</h1>
-<img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/77d315a0-97bf-46b1-a900-daead8371587" height="150" />
+<img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/ed98418f-36f6-41a3-9c35-99aa894d10ad" height="150" />
 <p>My name is Jorge, I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:</p>
 
 ## BITMONEY
