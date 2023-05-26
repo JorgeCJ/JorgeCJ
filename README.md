@@ -31,11 +31,11 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- 
     
 </div>
-  <br> <a href="https://www.linkedin.com/in/jorge-de-carvalho-j%C3%BAnior-206828159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg)
- 
+  <br> <a href="https://www.linkedin.com/in/jorge-de-carvalho-j%C3%BAnior-206828159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
 </div>
+  
+### Feel free to visit this profile whenever you want 😊 .
+<img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dedc2f28-43df-4f6c-88ec-7f2871aebcf6" height="150" />  
