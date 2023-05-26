@@ -46,5 +46,5 @@
   
    ### Have a good day!
   
-  <img align="right" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250"   />  
+  <img align="center" src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4e35417c-bff1-4498-8cab-7480df461b52" height="250"   />  
 </div/
