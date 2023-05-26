@@ -40,7 +40,7 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
-<div>  
+<div display="inline-flex">  
   
    ### Feel free to visit this profile whenever you want 😊.
   
