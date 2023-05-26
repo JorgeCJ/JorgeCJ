@@ -38,7 +38,7 @@
   ![Snake animation](https://github.com/JorgeCJ/JorgeCJ/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
-<div>  
+<div width="100%">  
   <h3>Feel free to visit</h3>
   <h3>this profile </h3>
   <h3>whenever you want 😊.</h3>
