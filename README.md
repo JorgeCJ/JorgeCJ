@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
 </a>
 
-### See details on my GitHub below👇:
+### See details of my GitHub below👇:
 <div>
   <a href="https://github.com/JorgeCJ">
   <img height="250em"   align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JorgeCJ&&show_icons=true&theme=dark"/>
