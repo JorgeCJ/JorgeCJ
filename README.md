@@ -22,6 +22,7 @@
 ## GAMES MADE BY ME <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  /> (CURRENTLY only one) :
   
 <div>
+  
   `This game shows casual tasks of a programmer, such as not getting caught by ninjas 🤣.`
   
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/f745169e-d605-4fb4-99d7-de48d9838dd2" height="400" align="center"   />
