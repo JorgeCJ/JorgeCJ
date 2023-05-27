@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://github.com/JorgeCJ">
   <img height="220em"   align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JorgeCJ&&show_icons=true&theme=dark"/>
-  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" />
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">   
 </div>
  <br>
