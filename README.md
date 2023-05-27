@@ -30,7 +30,7 @@
   
 </div>
 
-  `See the code repository for this game here 🡇🡇🡇:`
+  `See the code repository for this game here 👇:`
 <div align="center">
   <a href="https://github.com/JorgeCJ/RUN-DEV" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=RUN-DEV&theme=dark" height="150" />
