@@ -19,9 +19,8 @@
 
 <div>
   
-  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  />
+### GAMES MADE BY ME <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  /> :
   
-### Games made by me:
 
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/f745169e-d605-4fb4-99d7-de48d9838dd2" height="400" align="center"   />
 </div>
