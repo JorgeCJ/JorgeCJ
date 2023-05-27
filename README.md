@@ -6,18 +6,18 @@
 ## BITMONEY
 `BitMoney is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.`
 <div align="center">
-<a href="https://github.com/JorgeCJ/BitMoney-COD3R" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=dark" height="150" />
-</a>
-  </div>
+  <a href="https://github.com/JorgeCJ/BitMoney-COD3R" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=dark" height="150" />
+  </a>
+</div>
 
 ## TIME CAPSULE
 `This is a time capsule, the purpose of which is to post your best moments, so that they are kept with care in the application❤️.`
-
-<a href="https://github.com/JorgeCJ/Time-capsule-NLW" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/JorgeCJ/Time-capsule-NLW" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
+  </a>
+</div>
 
   
 ## GAMES MADE BY ME <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  /> (CURRENTLY only one) :
