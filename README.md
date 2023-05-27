@@ -39,7 +39,7 @@
   
   `Play at your own risk...` 
 <div align="center">  
-  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dff666e1-62cc-494a-bcf6-9bc9e9fa0788" height="250" align="center"   />  
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/ninja_medium-skin-tone_1f977-1f3fd_1f3fd.png" height="250" align="center" />  
 </div>
 
 ### See details of my GitHub below👇:
