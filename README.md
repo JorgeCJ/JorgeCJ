@@ -7,14 +7,14 @@
 `BitMoney is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.`
 
 <a href="https://github.com/JorgeCJ/BitMoney-COD3R" float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=BitMoney-COD3R&theme=dark" height="150" align="center"/>
 </a>
 
 ## TIME CAPSULE
 `This is a time capsule, the purpose of which is to post your best moments, so that they are kept with care in the application❤️.`
 
 <a href="https://github.com/JorgeCJ/Time-capsule-NLW" float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" align="center"/>
 </a>
 
 
