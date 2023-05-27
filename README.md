@@ -26,9 +26,9 @@
 ## RUN DEV
   `This game shows casual tasks of a programmer, such as not getting caught by ninjas 🤣.` 
 <div align="center">  
-  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/f745169e-d605-4fb4-99d7-de48d9838dd2" height="400" align="center"   />
+  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/f745169e-d605-4fb4-99d7-de48d9838dd2" height="250" align="center"   />
 </div>
-  
+  `See the code repository for this game here ☟`:
 ### See details of my GitHub below👇:
 <div align="center">
   <a href="https://github.com/JorgeCJ">
