@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
 </a>
 
- <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/533ca6e9-dfcc-4f6e-81cb-5c3cb217501d" height="150" />
+ <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/533ca6e9-dfcc-4f6e-81cb-5c3cb217501d" height="400" />
 
 ### See details of my GitHub below👇:
 <div>
