@@ -38,7 +38,9 @@
 </div>
   
   `Play at your own risk...` 
-  ![image](https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dff666e1-62cc-494a-bcf6-9bc9e9fa0788)
+<div align="center">  
+  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/dff666e1-62cc-494a-bcf6-9bc9e9fa0788" height="250" align="center"   />  
+</div>
 
 ### See details of my GitHub below👇:
 <div align="center">
