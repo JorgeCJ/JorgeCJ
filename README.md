@@ -31,6 +31,11 @@
 </div>
 
   `See the code repository for this game here 🡇🡇🡇:`
+<div align="center">
+  <a href="https://github.com/JorgeCJ/RUN-DEV" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Time-capsule-NLW&theme=dark" height="150" />
+  </a>
+</div>
   
 ### See details of my GitHub below👇:
 <div align="center">
