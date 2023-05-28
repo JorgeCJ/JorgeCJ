@@ -29,7 +29,7 @@
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/45231f39-d6d8-4892-ac29-2818cb4564b6" height="250" width="400" align="center" />  
 </div>
 
-`See it here 👇:`
+`This beautiful calculator can be yours 😻, just click here below:`
 
 <div align="center">
   <a href="https://github.com/JorgeCJ/Hotel-Calculator" float="left">
