@@ -25,6 +25,10 @@
 
 ## HOTEL CALCULATOR
 `This is a "California" themed calculator. It makes a reference to the song "Hotel California" (it even plays the song). Next to it, there are some tips on how to use it.`
+<div align="center">  
+  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/45231f39-d6d8-4892-ac29-2818cb4564b6" height="200" width="400" align="center" />  
+</div>
+`See it here 👇:`
 <div align="center">
   <a href="https://github.com/JorgeCJ/Hotel-Calculator" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Hotel-Calculator&theme=dark" height="150" />
