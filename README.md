@@ -26,7 +26,7 @@
 ## HOTEL CALCULATOR
 `This is a "California" themed calculator. It makes a reference to the song "Hotel California" (it even plays the song). Next to it, there are some tips on how to use it.`
 <div align="center">  
-  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/45231f39-d6d8-4892-ac29-2818cb4564b6" height="300" width="400" align="center" />  
+  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/45231f39-d6d8-4892-ac29-2818cb4564b6" height="250" width="400" align="center" />  
 </div>
 
 `See it here 👇:`
