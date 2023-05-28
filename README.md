@@ -21,6 +21,15 @@
   </a>
 </div>
 
+`Well, let's move now to some simpler projects:`
+
+## HOTEL CALCULATOR
+`This is a "California" themed calculator. It makes a reference to the song "Hotel California" (it even plays the song). Next to it, there are some tips on how to use it.`
+<div align="center">
+  <a href="https://github.com/JorgeCJ/Hotel-Calculator" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Hotel-Calculator&theme=dark" height="150" />
+  </a>
+</div>
   
 ## GAMES MADE BY ME <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  /> (CURRENTLY only one) :
 ## RUN DEV
