@@ -36,6 +36,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Hotel-Calculator&theme=dark" height="150" />
   </a>
 </div>
+
+## EXTRACT TEXT FROM PDF
+
+<div align="center">  
+  <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/eea07e46-46ba-4d4b-bfbe-b6fe17422005" height="200" width="400" align="center" />  
+</div>
+
+`This is a simple project made to extract Text from PDF. I recommend seeing the repository below for more details:`
+
+<div align="center">
+  <a href="https://github.com/JorgeCJ/Extract-text-from-PDF" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Extract-text-from-PDF&theme=dark" height="150" />
+  </a>
+</div>
   
 ## GAMES MADE BY ME <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/4853de6b-4324-459f-8667-49e33378c9fd" height="50" align="center"  /> (CURRENTLY only one) :
 ## RUN DEV
