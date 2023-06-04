@@ -73,6 +73,12 @@
 
 `I also know how to make websites with Wordpress:`
 
+## KOREAN PARADISE
+
+`Fictional website of the tastiest Korean food in the world!`
+
+https://koreanfood45.wordpress.com/
+
 ## FATEST BURGUER
 
 `A fictitious burger joint website`
