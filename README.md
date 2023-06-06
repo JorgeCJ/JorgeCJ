@@ -88,9 +88,9 @@ https://fatestburguer.wordpress.com/
 ### See details of my GitHub below👇:
 <div align="center">
   <a href="https://github.com/JorgeCJ">
-  <img height="230em"   align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JorgeCJ&&show_icons=true&theme=dark"/>
-  <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">   
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeCJ&&theme=dark" alt="JorgeCJ" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeCJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <br>
 <div align="center"> 
