@@ -3,7 +3,21 @@
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/ed98418f-36f6-41a3-9c35-99aa894d10ad" height="150" />
 </div>
 
-`My name is Jorge, I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:`
+`Before introducing myself, I recommend checking out my first deploy of a FullStack project:`
+
+![PETCARE](https://github.com/JorgeCJ/Pet-Care/assets/127647774/5ad251c5-c693-476e-b533-6aa870d31967)
+
+`Here is the link to see on Vercel:` https://pet-care-woad.vercel.app/
+
+`In summary, this project is for share information to help others treat their pets. If you want to see the project repository, just click here:`
+
+<div align="center">
+  <a href="https://github.com/JorgeCJ/Pet-Care" float="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeCJ&repo=Pet-Care&theme=dark" height="150" />
+  </a>
+</div>
+
+`Returning to introduce myself, my name is Jorge and I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:`
 
 ## BITMONEY
 `BitMoney is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.`
