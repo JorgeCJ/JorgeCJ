@@ -3,7 +3,19 @@
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/ed98418f-36f6-41a3-9c35-99aa894d10ad" height="150" />
 </div>
 
-`Before introducing myself, I recommend checking out my first deploy of a FullStack project:`
+`Before introducing myself, I recommend checking out two deploys of Full Stack projects:`
+
+`Give a look at this beautiful place to store dreams:`
+
+<div align="center">
+  
+  ![capaProjeto](https://github.com/JorgeCJ/JorgeCJ/assets/127647774/01c5b946-d14a-4095-9c54-6bf75b9ef1ce)
+
+</div>
+
+If you want, check it on [Vercel](https://tell-me-your-dreams.vercel.app/) or see this in GitHub [repository](https://github.com/JorgeCJ/TELL-ME-YOUR-DREAMS).
+
+`This project below were my first Full Stack deploy:`
 <div align="center">
   
 ![PETCARE](https://github.com/JorgeCJ/Pet-Care/assets/127647774/5ad251c5-c693-476e-b533-6aa870d31967)
