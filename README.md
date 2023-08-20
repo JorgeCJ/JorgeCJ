@@ -3,7 +3,7 @@
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/ed98418f-36f6-41a3-9c35-99aa894d10ad" height="150" />
 </div>
 
-`Before introducing myself, I recommend checking out two deploys of Full Stack projects:`
+`Before introducing myself, I recommend checking two deployments of Full Stack projects made by me:`
 
 `Give a look at this beautiful place to store dreams:`
 
