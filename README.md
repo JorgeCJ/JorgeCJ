@@ -1,4 +1,7 @@
-<h1>Hi😁! Welcome to my profile.</h1>
+<h1>Hi😁! Welcome to my profile.</h1> 
+
+[LinkedIn](https://www.linkedin.com/in/jorge-de-carvalho-j%C3%BAnior-206828159/)
+
 <div align="center">
   <img src="https://github.com/JorgeCJ/JorgeCJ/assets/127647774/ed98418f-36f6-41a3-9c35-99aa894d10ad" height="150" />
 </div>
@@ -32,7 +35,7 @@ If you want, check it on [Vercel](https://tell-me-your-dreams.vercel.app/) or se
   </a>
 </div>
 
-`Returning to introduce myself, my name is Jorge and I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently looking for a job and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:`
+`Returning to introduce myself, my name is Jorge and I'm a website developer. I have front end and back end knowledge, but I'm much better at the front end. I am currently working towards becoming a senior and it will be a pleasure to show you a little bit of my journey💗. Give a look at these projects:`
 
 ## BITMONEY
 `BitMoney is a web application for controlling personal finances. The project uses Firebase for authentication and data storage.`
